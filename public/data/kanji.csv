@@ -1,0 +1,112 @@
+char,meaning,onyomi,kunyomi,example,strokeOrder,audio
+一,one,イチ,"ひと-","一月 (いちがつ) - January",/assets/strokes/kanji/一.gif,/assets/audio/kanji/one.mp3
+二,two,ニ,"ふた-","二月 (にがつ) - February",/assets/strokes/kanji/二.gif,/assets/audio/kanji/two.mp3
+三,three,サン,"みっ-","三月 (さんがつ) - March",/assets/strokes/kanji/三.gif,/assets/audio/kanji/three.mp3
+四,four,シ,"よん,よ,よっ-","四月 (しがつ) - April",/assets/strokes/kanji/四.gif,/assets/audio/kanji/four.mp3
+五,five,ゴ,"いつ-","五月 (ごがつ) - May",/assets/strokes/kanji/五.gif,/assets/audio/kanji/five.mp3
+六,six,ロク,"むっ-","六月 (ろくがつ) - June",/assets/strokes/kanji/六.gif,/assets/audio/kanji/six.mp3
+七,seven,シチ,"なな-","七月 (しちがつ) - July",/assets/strokes/kanji/七.gif,/assets/audio/kanji/seven.mp3
+八,eight,ハチ,"やっ-","八月 (はちがつ) - August",/assets/strokes/kanji/八.gif,/assets/audio/kanji/eight.mp3
+九,nine,"キュウ,ク","ここの-","九月 (くがつ) - September",/assets/strokes/kanji/九.gif,/assets/audio/kanji/nine.mp3
+十,ten,ジュウ,とお,"十月 (じゅうがつ) - October",/assets/strokes/kanji/十.gif,/assets/audio/kanji/ten.mp3
+百,hundred,ヒャク,"","百円 (ひゃくえん) - 100 yen",/assets/strokes/kanji/百.gif,/assets/audio/kanji/hundred.mp3
+千,thousand,セン,ち,"千円 (せんえん) - 1000 yen",/assets/strokes/kanji/千.gif,/assets/audio/kanji/thousand.mp3
+万,"ten thousand",マン,"","一万円 (いちまんえん) - 10,000 yen",/assets/strokes/kanji/万.gif,/assets/audio/kanji/man.mp3
+日,"day, sun","ニチ,ジツ","ひ,-び,-か","日本 (にほん) - Japan",/assets/strokes/kanji/日.gif,/assets/audio/kanji/sun.mp3
+月,"month, moon","ゲツ,ガツ",つき,"月曜日 (げつようび) - Monday",/assets/strokes/kanji/月.gif,/assets/audio/kanji/moon.mp3
+火,fire,カ,ひ,"火曜日 (かようび) - Tuesday",/assets/strokes/kanji/火.gif,/assets/audio/kanji/fire.mp3
+水,water,スイ,みず,"水曜日 (すいようび) - Wednesday",/assets/strokes/kanji/水.gif,/assets/audio/kanji/water.mp3
+木,"tree, wood",モク,き,"木曜日 (もくようび) - Thursday",/assets/strokes/kanji/木.gif,/assets/audio/kanji/tree.mp3
+金,"gold, money",キン,かね,"金曜日 (きんようび) - Friday",/assets/strokes/kanji/金.gif,/assets/audio/kanji/gold.mp3
+土,"earth, soil",ド,つち,"土曜日 (どようび) - Saturday",/assets/strokes/kanji/土.gif,/assets/audio/kanji/earth.mp3
+年,year,ネン,とし,"今年 (ことし) - this year",/assets/strokes/kanji/年.gif,/assets/audio/kanji/year.mp3
+時,"time, hour",ジ,とき,"時間 (じかん) - time, hour(s)",/assets/strokes/kanji/時.gif,/assets/audio/kanji/time.mp3
+分,"minute, part, understand","フン,ブン","わ(かる)","五分 (ごふん) - 5 minutes",/assets/strokes/kanji/分.gif,/assets/audio/kanji/minute.mp3
+間,"interval, space","カン,ケン",あいだ,"一時間 (いちじかん) - one hour",/assets/strokes/kanji/間.gif,/assets/audio/kanji/interval.mp3
+半,half,ハン,"なか(ば)","半分 (はんぶん) - half",/assets/strokes/kanji/半.gif,/assets/audio/kanji/half.mp3
+今,now,コン,いま,"今週 (こんしゅう) - this week",/assets/strokes/kanji/今.gif,/assets/audio/kanji/now.mp3
+先,"before, ahead, previous",セン,さき,"先生 (せんせい) - teacher",/assets/strokes/kanji/先.gif,/assets/audio/kanji/before.mp3
+来,"come, next",ライ,"く(る)","来週 (らいしゅう) - next week",/assets/strokes/kanji/来.gif,/assets/audio/kanji/come.mp3
+週,week,シュウ,"","毎週 (まいしゅう) - every week",/assets/strokes/kanji/週.gif,/assets/audio/kanji/week.mp3
+毎,every,マイ,"","毎日 (まいにち) - every day",/assets/strokes/kanji/毎.gif,/assets/audio/kanji/every.mp3
+午,noon,ゴ,"","午前 (ごぜん) - A.M.",/assets/strokes/kanji/午.gif,/assets/audio/kanji/noon.mp3
+後,"after, behind",ゴ,"あと,うし(ろ)","午後 (ごご) - P.M.",/assets/strokes/kanji/後.gif,/assets/audio/kanji/after.mp3
+前,"before, front",ゼン,まえ,"名前 (なまえ) - name",/assets/strokes/kanji/前.gif,/assets/audio/kanji/front.mp3
+人,person,"ジン,ニン",ひと,"日本人 (にほんじん) - Japanese person",/assets/strokes/kanji/人.gif,/assets/audio/kanji/person.mp3
+男,"man, male","ダン,ナン",おとこ,"男の人 (おとこのひと) - man",/assets/strokes/kanji/男.gif,/assets/audio/kanji/man_person.mp3
+女,"woman, female",ジョ,おんな,"女の人 (おんなのひと) - woman",/assets/strokes/kanji/女.gif,/assets/audio/kanji/woman.mp3
+子,child,シ,こ,"子供 (こども) - child",/assets/strokes/kanji/子.gif,/assets/audio/kanji/child.mp3
+母,mother,ボ,はは,"お母さん (おかあさん) - mother",/assets/strokes/kanji/母.gif,/assets/audio/kanji/mother.mp3
+父,father,フ,ちち,"お父さん (おとうさん) - father",/assets/strokes/kanji/父.gif,/assets/audio/kanji/father.mp3
+友,friend,ユウ,とも,"友達 (ともだち) - friend",/assets/strokes/kanji/友.gif,/assets/audio/kanji/friend.mp3
+口,mouth,コウ,くち,"入口 (いりぐち) - entrance",/assets/strokes/kanji/口.gif,/assets/audio/kanji/mouth.mp3
+目,eye,モク,め,"目薬 (めぐすり) - eye drops",/assets/strokes/kanji/目.gif,/assets/audio/kanji/eye.mp3
+耳,ear,ジ,みみ,"耳鼻科 (じびか) - ENT clinic",/assets/strokes/kanji/耳.gif,/assets/audio/kanji/ear.mp3
+手,hand,シュ,て,"上手 (じょうず) - skillful",/assets/strokes/kanji/手.gif,/assets/audio/kanji/hand.mp3
+足,"leg, foot, suffice",ソク,"あし,た(りる)","一足 (いっそく) - one pair (footwear)",/assets/strokes/kanji/足.gif,/assets/audio/kanji/foot.mp3
+力,"power, strength","リョク,リキ",ちから,"力持ち (ちからもち) - strong person",/assets/strokes/kanji/力.gif,/assets/audio/kanji/power.mp3
+上,"up, above",ジョウ,"うえ,あ(がる)","机の上 (つくえのうえ) - on top of the desk",/assets/strokes/kanji/上.gif,/assets/audio/kanji/up.mp3
+下,"down, below","カ,ゲ","した,さ(がる)","地下鉄 (ちかてつ) - subway",/assets/strokes/kanji/下.gif,/assets/audio/kanji/down.mp3
+左,left,サ,ひだり,"左手 (ひだりて) - left hand",/assets/strokes/kanji/左.gif,/assets/audio/kanji/left.mp3
+右,right,"ウ,ユウ",みぎ,"右手 (みぎて) - right hand",/assets/strokes/kanji/右.gif,/assets/audio/kanji/right.mp3
+中,"inside, middle, center",チュウ,なか,"中国 (ちゅうごく) - China",/assets/strokes/kanji/中.gif,/assets/audio/kanji/middle.mp3
+外,outside,ガイ,そと,"外国 (がいこく) - foreign country",/assets/strokes/kanji/外.gif,/assets/audio/kanji/outside.mp3
+東,east,トウ,ひがし,"東京 (とうきょう) - Tokyo",/assets/strokes/kanji/東.gif,/assets/audio/kanji/east.mp3
+西,west,"セイ,サイ",にし,"西口 (にしぐち) - west entrance",/assets/strokes/kanji/西.gif,/assets/audio/kanji/west.mp3
+南,south,ナン,みなみ,"南口 (みなみぐち) - south entrance",/assets/strokes/kanji/南.gif,/assets/audio/kanji/south.mp3
+北,north,ホク,きた,"北口 (きたぐち) - north entrance",/assets/strokes/kanji/北.gif,/assets/audio/kanji/north.mp3
+名,"name, famous",メイ,な,"有名 (ゆうめい) - famous",/assets/strokes/kanji/名.gif,/assets/audio/kanji/name.mp3
+国,country,コク,くに,"韓国 (かんこく) - Korea",/assets/strokes/kanji/国.gif,/assets/audio/kanji/country.mp3
+円,"yen, circle",エン,"まる(い)","百円 (ひゃくえん) - 100 yen",/assets/strokes/kanji/円.gif,/assets/audio/kanji/yen.mp3
+天,"heaven, sky",テン,あま,"天気 (てんき) - weather",/assets/strokes/kanji/天.gif,/assets/audio/kanji/heaven.mp3
+気,"spirit, mind, air",キ,"","元気 (げんき) - healthy, lively",/assets/strokes/kanji/気.gif,/assets/audio/kanji/spirit.mp3
+雨,rain,ウ,あめ,"大雨 (おおあめ) - heavy rain",/assets/strokes/kanji/雨.gif,/assets/audio/kanji/rain.mp3
+空,"sky, empty",クウ,"そら,あ(く)","空気 (くうき) - air",/assets/strokes/kanji/空.gif,/assets/audio/kanji/sky.mp3
+山,mountain,サン,やま,"富士山 (ふじさん) - Mt. Fuji",/assets/strokes/kanji/山.gif,/assets/audio/kanji/mountain.mp3
+川,river,セン,かわ,"小川 (おがわ) - stream",/assets/strokes/kanji/川.gif,/assets/audio/kanji/river.mp3
+田,"rice field",デン,た,"山田 (やまだ) - Yamada (name)",/assets/strokes/kanji/田.gif,/assets/audio/kanji/ricefield.mp3
+石,stone,セキ,いし,"石鹸 (せっけん) - soap",/assets/strokes/kanji/石.gif,/assets/audio/kanji/stone.mp3
+花,flower,カ,はな,"花火 (はなび) - fireworks",/assets/strokes/kanji/花.gif,/assets/audio/kanji/flower.mp3
+行,"go, carry out",コウ,"い(く),おこな(う)","銀行 (ぎんこう) - bank",/assets/strokes/kanji/行.gif,/assets/audio/kanji/go.mp3
+見,"see, look",ケン,"み(る)","見物 (けんぶつ) - sightseeing",/assets/strokes/kanji/見.gif,/assets/audio/kanji/see.mp3
+食,eat,ショク,"た(べる)","食事 (しょくじ) - meal",/assets/strokes/kanji/食.gif,/assets/audio/kanji/eat.mp3
+飲,drink,イン,"の(む)","飲み物 (のみもの) - drink",/assets/strokes/kanji/飲.gif,/assets/audio/kanji/drink.mp3
+買,buy,バイ,"か(う)","買い物 (かいもの) - shopping",/assets/strokes/kanji/買.gif,/assets/audio/kanji/buy.mp3
+読,read,ドク,"よ(む)","読書 (どくしょ) - reading",/assets/strokes/kanji/読.gif,/assets/audio/kanji/read.mp3
+書,write,ショ,"か(く)","図書館 (としょかん) - library",/assets/strokes/kanji/書.gif,/assets/audio/kanji/write.mp3
+話,"speak, talk",ワ,"はな(す)","電話 (でんわ) - telephone",/assets/strokes/kanji/話.gif,/assets/audio/kanji/speak.mp3
+聞,"hear, listen, ask",ブン,"き(く)","新聞 (しんぶん) - newspaper",/assets/strokes/kanji/聞.gif,/assets/audio/kanji/hear.mp3
+言,"say, word",ゲン,"い(う)","言語 (げんご) - language",/assets/strokes/kanji/言.gif,/assets/audio/kanji/say.mp3
+立,"stand up, establish",リツ,"た(つ)","国立 (こくりつ) - national",/assets/strokes/kanji/立.gif,/assets/audio/kanji/stand.mp3
+休,rest,キュウ,"やす(む)","休日 (きゅうじつ) - holiday",/assets/strokes/kanji/休.gif,/assets/audio/kanji/rest.mp3
+入,enter,ニュウ,"はい(る),い(れる)","入口 (いりぐち) - entrance",/assets/strokes/kanji/入.gif,/assets/audio/kanji/enter.mp3
+出,"exit, go out",シュツ,"で(る),だ(す)","出口 (でぐち) - exit",/assets/strokes/kanji/出.gif,/assets/audio/kanji/exit.mp3
+生,"live, birth, student","セイ,ショウ","う(まれる),い(きる)","学生 (がくせい) - student",/assets/strokes/kanji/生.gif,/assets/audio/kanji/live.mp3
+学,"study, learn",ガク,"まな(ぶ)","学校 (がっこう) - school",/assets/strokes/kanji/学.gif,/assets/audio/kanji/study.mp3
+会,"meet, society",カイ,"あ(う)","会社 (かいしゃ) - company",/assets/strokes/kanji/会.gif,/assets/audio/kanji/meet.mp3
+作,"make, create",サク,"つく(る)","作文 (さくぶん) - essay",/assets/strokes/kanji/作.gif,/assets/audio/kanji/make.mp3
+帰,"return, go home",キ,"かえ(る)","帰国 (きこく) - return to home country",/assets/strokes/kanji/帰.gif,/assets/audio/kanji/return.mp3
+大,"big, large","ダイ,タイ","おお(きい)","大学 (だいがく) - university",/assets/strokes/kanji/大.gif,/assets/audio/kanji/big.mp3
+小,"small, little",ショウ,"ちい(さい),こ","小学校 (しょうがっこう) - elementary school",/assets/strokes/kanji/小.gif,/assets/audio/kanji/small.mp3
+高,"high, tall, expensive",コウ,"たか(い)","高校 (こうこう) - high school",/assets/strokes/kanji/高.gif,/assets/audio/kanji/high.mp3
+安,"cheap, peaceful",アン,"やす(い)","安全 (あんぜん) - safety",/assets/strokes/kanji/安.gif,/assets/audio/kanji/cheap.mp3
+新,new,シン,"あたら(しい)","新聞 (しんぶん) - newspaper",/assets/strokes/kanji/新.gif,/assets/audio/kanji/new.mp3
+古,old,コ,"ふる(い)","中古 (ちゅうこ) - secondhand",/assets/strokes/kanji/古.gif,/assets/audio/kanji/old.mp3
+多,"many, much",タ,"おお(い)","多分 (たぶん) - probably",/assets/strokes/kanji/多.gif,/assets/audio/kanji/many.mp3
+少,"few, little",ショウ,"すく(ない),すこ(し)","少し (すこし) - a little",/assets/strokes/kanji/少.gif,/assets/audio/kanji/few.mp3
+長,"long, leader",チョウ,"なが(い)","社長 (しゃちょう) - company president",/assets/strokes/kanji/長.gif,/assets/audio/kanji/long.mp3
+白,white,ハク,"しろ(い)","白黒 (しろくろ) - black and white",/assets/strokes/kanji/白.gif,/assets/audio/kanji/white.mp3
+赤,red,セキ,"あか(い)","赤ちゃん (あかちゃん) - baby",/assets/strokes/kanji/赤.gif,/assets/audio/kanji/red.mp3
+青,blue,セイ,"あお(い)","青年 (せいねん) - youth",/assets/strokes/kanji/青.gif,/assets/audio/kanji/blue.mp3
+車,"car, vehicle",シャ,くるま,"電車 (でんしゃ) - train",/assets/strokes/kanji/車.gif,/assets/audio/kanji/car.mp3
+道,"road, way",ドウ,みち,"道路 (どうろ) - road",/assets/strokes/kanji/道.gif,/assets/audio/kanji/road.mp3
+駅,station,エキ,"","駅前 (えきまえ) - in front of the station",/assets/strokes/kanji/駅.gif,/assets/audio/kanji/station.mp3
+電,electricity,デン,"","電気 (でんき) - electricity, light",/assets/strokes/kanji/電.gif,/assets/audio/kanji/electricity.mp3
+語,"language, word",ゴ,"かた(る)","日本語 (にほんご) - Japanese language",/assets/strokes/kanji/語.gif,/assets/audio/kanji/language.mp3
+本,"book, origin",ホン,もと,"本屋 (ほんや) - bookstore",/assets/strokes/kanji/本.gif,/assets/audio/kanji/book.mp3
+店,"store, shop",テン,みせ,"店員 (てんいん) - store clerk",/assets/strokes/kanji/店.gif,/assets/audio/kanji/store.mp3
+校,"school, proofread",コウ,"","中学校 (ちゅうがっこう) - middle school",/assets/strokes/kanji/校.gif,/assets/audio/kanji/school.mp3
+社,"company, shrine",シャ,やしろ,"社会 (しゃかい) - society",/assets/strokes/kanji/社.gif,/assets/audio/kanji/company.mp3
+銀,silver,ギン,"","銀行 (ぎんこう) - bank",/assets/strokes/kanji/銀.gif,/assets/audio/kanji/silver.mp3
+病,"sick, illness",ビョウ,"や(む)","病院 (びょういん) - hospital",/assets/strokes/kanji/病.gif,/assets/audio/kanji/sick.mp3
+院,"institution, hospital",イン,"","大学院 (だいがくいん) - graduate school",/assets/strokes/kanji/院.gif,/assets/audio/kanji/institution.mp3

@@ -1,0 +1,187 @@
+/* Global styles */
+body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  /* Background fallback color in case image doesn't load */
+  background-color: #e6f2ff; 
+  
+  /* Using the image from public folder */
+  background-image: url('/image.jpg'); /* Update this path to match your image filename */
+  background-size: cover !important;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  
+  /* Keep these other styles */
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+}
+
+/* Section styling */
+.section-container {
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.8); /* Slightly more opaque for better readability */
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  z-index: 1; /* Ensure content is above the background */
+}
+
+.section-container:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+#root {
+  max-width: none; /* or 100% */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* Enhanced logo styles */
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: all 300ms ease;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+  transform: scale(1.05);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* Card enhancements */
+.card {
+  padding: 2em;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+
+  background: white;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.read-the-docs {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* Remove duplicate section-container styles and replace with these */
+.section-title {
+  color: #4338ca;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  position: relative;
+  display: inline-block;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, #4338ca, #ec4899);
+  border-radius: 3px;
+}
+
+/* Button enhancements */
+button, .button {
+  transition: all 0.3s ease;
+}
+
+button:hover, .button:hover {
+  transform: translateY(-2px);
+}
+
+/* Japanese text styling */
+.japanese {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* Page transitions */
+.page-transition-enter {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.page-transition-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.page-transition-exit {
+  opacity: 1;
+}
+
+.page-transition-exit-active {
+  opacity: 0;
+  transition: opacity 300ms;
+}
+
+/* Overlay container */
+.app-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.app-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  /* Adjust this overlay to fit your image - may need more or less opacity */
+  background: linear-gradient(to bottom right, 
+                rgba(245, 247, 255, 0.7), 
+                rgba(230, 242, 255, 0.7), 
+                rgba(237, 245, 255, 0.7), 
+                rgba(225, 240, 255, 0.7));
+  z-index: -1;
+}
+
+/* Add to your components */
+.glass-card {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15);
+}
+
+.dark .glass-card {
+  background: rgba(30, 30, 40, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}

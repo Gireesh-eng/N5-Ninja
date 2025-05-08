@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark">
+    <title>N5 Ninja - Learn Japanese JLPT N5 Level</title>
+    <meta name="description" content="Learn JLPT N5 level Japanese with interactive lessons, quizzes, and practice" />
+    <meta name="author" content="N5 Ninja" />
+
+    <meta property="og:title" content="N5 Ninja - JLPT N5 Preparation" />
+    <meta property="og:description" content="Complete JLPT N5 preparation platform with grammar, vocabulary, flashcards, quizzes and more" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@lovable_dev" />
+    <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Poppins:wght@300;400;500;700&display=swap">
+    <link rel="preload" href="/image.jpg" as="image" />
+    <!-- Add Inter font family -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Theme script to avoid FOUC (Flash of Unstyled Content) -->
+    <script>
+      (function() {
+        // On page load or when changing themes, best to add inline in `head` to avoid FOUC
+        const theme = localStorage.theme || 'system';
+        if (theme === 'dark' || (theme === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+
+        // Also set color-scheme at the meta tag level for system-level dark mode support
+        document.querySelector('meta[name="color-scheme"]').setAttribute('content', theme === 'system' ? 'light dark' : theme);
+      })();
+    </script>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script src="https://cdn.gpteng.co/gptengineer.js" type="module"></script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
