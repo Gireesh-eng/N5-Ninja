@@ -12,15 +12,15 @@ A comprehensive study platform for Japanese Language Proficiency Test (JLPT) N5 
 
 ## Technologies Used
 
-- **Frontend Framework:** React with TypeScript
-- **Build Tool:** Vite
-- **Styling:** Tailwind CSS
-- **UI Components:** shadcn/ui
-- **State Management:** React Context
-- **Routing:** React Router
-- **Development Tools:**
-  - ESLint for code quality
-  - Prettier for code formatting
+- Frontend Framework: React with TypeScript
+- Build Tool: Vite
+- Styling: Tailwind CSS
+- UI Components: shadcn/ui
+- State Management: React Context API
+- Routing: React Router
+- Deployment: Deployed on Firebase Hosting
+- Custom Domain: n5-ninja.me (Live and accessible)
+
 
 ## Prerequisites
 
